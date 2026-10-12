@@ -1,0 +1,65 @@
+{
+  "image": "assets/me.jpg",
+  "imageCols": 46,
+  "charset": "ascii",
+  "theme": "github-dark",
+  "windowTitle": "",
+  "fontSize": 13,
+  "keyWidth": 12,
+  "panelAlign": "middle",
+  "leaders": true,
+  "panelChars": 58,
+  "titleRule": "inline",
+  "valueWrap": 40,
+  "sections": [
+    {
+      "title": "quentin@github",
+      "fields": [
+        [
+          "Name",
+          "Quentin Machu"
+        ],
+        [
+          "Day shift",
+          "CTO @ BitMEX"
+        ],
+        [
+          "Night shift",
+          "ADHD-fueled agentic crack team dictator"
+        ],
+        [
+          "Location",
+          "New York"
+        ]
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        [
+          "X",
+          "x.com/Quentin__M"
+        ],
+        [
+          "LinkedIn",
+          "in/quentinmachu"
+        ],
+        [
+          "GitHub",
+          "github.com/Quentin-M"
+        ]
+      ]
+    }
+  ],
+  "contrast": 1.1,
+  "gamma": 1.8,
+  "invert": false,
+  "chrome": false,
+  "brightness": 1.4,
+  "imageCrop": [
+    72,
+    0,
+    400,
+    440
+  ]
+}
